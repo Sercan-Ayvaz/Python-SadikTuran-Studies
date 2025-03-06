@@ -47,4 +47,4 @@ while True:
                 else:
                     print('Please enter a valid value!')  
     except Exception as ex:
-        print(f'Exception: {ex}')  # Hata durumunda mesaj yazdırıyoruz # Printing the error message in case of an exception
+        print(f'Exception: {ex}')  # Hata durumunda mesaj yazdırıyoruz # Printing the error message in case of an exception!
